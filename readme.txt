@@ -1,3 +1,0 @@
-mama
- papa
-12
